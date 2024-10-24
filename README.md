@@ -15,9 +15,11 @@
 
 - 📫 How to reach me **ahouab@aliouche.com**
 
-- 📄 Know about my experiences [https://aliouche.com/bio](https://aliouche.com/bio)
+- 📄 Know about my bio [https://aliouche.com/bio](https://aliouche.com/bio)
 
 - ⚡ Fun fact **I am a boxer**
+
+- 💬 Book a 30 minutes session with me [Coaching Session](https://calendly.com/walterassets/30min)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
