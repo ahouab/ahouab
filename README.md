@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aliouche](https://www.linkedin.com/in/aliouche)
 
-- 💬 Ask me about **AWS, Kubernetes, Iac, Cloud, Change, Coaching, Consulting, Leadership**
+- 💬 Ask me about **AWS, Kubernetes, Iac, Cloud, Change, Coaching, Consulting, Leadership, Siebel Oracle**
 
 - 📫 How to reach me **ahouab@aliouche.com**
 
