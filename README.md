@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am a boxer**
 
-- 💬 Book a free 30 minutes session with me [Business Session](https://calendly.com/walterassets/30min)
+- 💬 Book a free 30 minutes session with me to see how I can help you (https://calendly.com/walterassets/30min)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
