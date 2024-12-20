@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Kubernetes](https://www.kubernetes.io)
 
-- 🌱 I’m currently learning **Kubernetes, AI, SRE, Change**
+- 🌱 I’m still currently learning **Kubernetes, AI, SRE, Change**
 
-- 👯 I’m looking to collaborate on [Openstack](https://openinfra.dev/)
+- 👯 I’m collaborating on [Openstack](https://openinfra.dev/)
 
 - 👨‍💻 All of my projects are available at [https://aliouche.com](https://aliouche.com)
 
