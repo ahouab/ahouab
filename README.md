@@ -17,7 +17,7 @@
 
 - 📄 Know about my bio [https://aliouche.com/bio](https://aliouche.com/bio)
 
-- 💬 Book a free 30 minutes session with me to see how I can help you (https://calendly.com/walterassets/30min)
+- 💬 Book a 30 minutes session with me to see how I can help you (https://calendly.com/walterassets/30min)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
