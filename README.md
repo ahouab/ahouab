@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aliouche Ahouab</h1>
 <h3 align="center">Cloud Specialist</h3>
 
-- 🔭 I’m currently working on [AWS](https://www.aws.com), [Kubernetes](https://www.kubernetes.io), [InfraAsCode](https://www.terrafom.io)[Ansible](https://www.ansible.com)
+- 🔭 I’m currently working on [AWS](https://www.aws.com), [Kubernetes](https://www.kubernetes.io), [InfraAsCode](https://www.terrafom.io) and [Ansible](https://www.ansible.com)
 
 - 🌱 I’m still currently learning **Kubernetes, AI, SRE, Change**
 
