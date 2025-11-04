@@ -17,7 +17,7 @@
 
 - 📄 Know about my bio [https://aliouche.com/bio](https://aliouche.com/bio)
 
-- 💬 Book a 30 minutes session with me to see how I can help you (https://calendly.com/walterassets/30min)
+- 💬 Book a free 15 minutes session with me to see how I can help you and your business ([Strategic Checkpoint 15 minutes](https://calendly.com/walterassets/15min))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
